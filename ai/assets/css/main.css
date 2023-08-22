@@ -16,7 +16,8 @@
 }
 
 .inner span {
-	color: orangered !important;
+	color: #a5016e !important;
+	/* color: orangered !important; */
 }
 
 @import url(fontawesome-all.min.css);
@@ -3265,11 +3266,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #9484b9;
 		}
 
 		.wrapper.style2 {
-			background-color: #7c4994;
+			background-color: #5577e6;
 		}
 
 		.wrapper.style2-alt {
@@ -3277,7 +3278,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #7c4994;
+			background-color: #508ac0;
 		}
 
 		.wrapper.style3-alt {
